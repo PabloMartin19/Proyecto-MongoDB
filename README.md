@@ -2,27 +2,17 @@
 
 Este repositorio contiene los archivos y programas relacionados con la práctica sobre MongoDB y Python.
 
-## Primera Parte
+## 1ª Parte
 
-### 1. Selección de un archivo JSON
+### 1. Debes seleccionar un fichero json que incluya todos los tipos de datos soportados en MongoDB. Antes de continuar la profesora deberá dar el visto bueno al mismo.
 
-Debes seleccionar un fichero JSON que incluya todos los tipos de datos soportados en MongoDB. La profesora deberá dar el visto bueno al mismo antes de continuar.
+### 2. Con la utilidad `mongoimport` introduce los documentos correspondientes a esa colección.
 
-### 2. Importación de documentos
+### 3. Inserta varios documentos utilizando los dos métodos de inserción de MongoDB
 
-Utiliza la utilidad `mongoimport` para introducir los documentos correspondientes a esa colección.
+### 4. Elimina varios documentos utilizando los dos métodos de eliminación de MongoDB
 
-### 3. Inserción de documentos
-
-Inserta varios documentos utilizando los dos métodos de inserción de MongoDB.
-
-### 4. Eliminación de documentos
-
-Elimina varios documentos utilizando los dos métodos de eliminación de MongoDB.
-
-### 5. Actualización de documentos
-
-Actualiza varios documentos utilizando los tres métodos de actualización de MongoDB.
+### 5. Actualiza varios documentos utilizando los tres métodos de eliminación de MongoDB
 
 ### 6. Consultas
 
@@ -34,31 +24,21 @@ Realiza consultas que incluyan:
 
 Nota: Debes utilizar proyecciones, operadores, ordenación y los modificadores `sort` y `limit`. Se valorará la complejidad de las mismas.
 
-## Segunda Parte (Programa en Python)
+## 2ª Parte
 
 Debes realizar un programa Python que se conecte a la colección creada en la primera parte y mediante un menú permita inserción, eliminación, modificación y al menos una consulta de cada uno de los distintos tipos.
 
-## Tercera Parte
+## 3ª Parte
 
-### 1. Selección de tablas
+### 1. Debes seleccionar al menos cuatro tablas de tu proyecto que incluyan una relación N:M y una 1:N con el mayor número de tipos de datos soportados en MongoDB. Antes de continuar la profesora deberá dar el visto bueno a las mismas.
 
-Selecciona al menos cuatro tablas de tu proyecto que incluyan una relación N:M y una 1:N con el mayor número de tipos de datos soportados en MongoDB. La profesora deberá dar el visto bueno a las mismas antes de continuar.
+### 2. Debes pasar de SQL a MongoDB.
 
-### 2. Migración de SQL a MongoDB
+### 3. Inserta varios documentos utilizando los dos métodos de inserción de MongoDB
 
-Pasa de SQL a MongoDB.
+### 4. Elimina varios documentos utilizando los dos métodos de eliminación de MongoDB
 
-### 3. Inserción de documentos
-
-Inserta varios documentos utilizando los dos métodos de inserción de MongoDB.
-
-### 4. Eliminación de documentos
-
-Elimina varios documentos utilizando los dos métodos de eliminación de MongoDB.
-
-### 5. Actualización de documentos
-
-Actualiza varios documentos utilizando los tres métodos de actualización de MongoDB.
+### 5. Actualiza varios documentos utilizando los tres métodos de actualización de MongoDB
 
 ### 6. Consultas
 
