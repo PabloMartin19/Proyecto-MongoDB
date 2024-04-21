@@ -6,15 +6,15 @@
 
 #### 1. Debes seleccionar un fichero json que incluya todos los tipos de datos soportados en MongoDB. Antes de continuar la profesora deberá dar el visto bueno al mismo.
 
-### 2. Con la utilidad `mongoimport` introduce los documentos correspondientes a esa colección.
+#### 2. Con la utilidad `mongoimport` introduce los documentos correspondientes a esa colección.
 
-### 3. Inserta varios documentos utilizando los dos métodos de inserción de MongoDB
+#### 3. Inserta varios documentos utilizando los dos métodos de inserción de MongoDB
 
-### 4. Elimina varios documentos utilizando los dos métodos de eliminación de MongoDB
+#### 4. Elimina varios documentos utilizando los dos métodos de eliminación de MongoDB
 
-### 5. Actualiza varios documentos utilizando los tres métodos de eliminación de MongoDB
+#### 5. Actualiza varios documentos utilizando los tres métodos de eliminación de MongoDB
 
-### 6. Consultas
+#### 6. Consultas
 
 Realiza consultas que incluyan:
 - Al menos 5 consultas de datos simples.
@@ -30,17 +30,17 @@ Debes realizar un programa Python que se conecte a la colección creada en la pr
 
 ## 3ª Parte
 
-### 1. Debes seleccionar al menos cuatro tablas de tu proyecto que incluyan una relación N:M y una 1:N con el mayor número de tipos de datos soportados en MongoDB. Antes de continuar la profesora deberá dar el visto bueno a las mismas.
+#### 1. Debes seleccionar al menos cuatro tablas de tu proyecto que incluyan una relación N:M y una 1:N con el mayor número de tipos de datos soportados en MongoDB. Antes de continuar la profesora deberá dar el visto bueno a las mismas.
 
-### 2. Debes pasar de SQL a MongoDB.
+#### 2. Debes pasar de SQL a MongoDB.
 
-### 3. Inserta varios documentos utilizando los dos métodos de inserción de MongoDB
+#### 3. Inserta varios documentos utilizando los dos métodos de inserción de MongoDB
 
-### 4. Elimina varios documentos utilizando los dos métodos de eliminación de MongoDB
+#### 4. Elimina varios documentos utilizando los dos métodos de eliminación de MongoDB
 
-### 5. Actualiza varios documentos utilizando los tres métodos de actualización de MongoDB
+#### 5. Actualiza varios documentos utilizando los tres métodos de actualización de MongoDB
 
-### 6. Consultas
+#### 6. Consultas
 
 Realiza consultas que incluyan:
 - Al menos 5 consultas de datos simples.
