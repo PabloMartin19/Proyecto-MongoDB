@@ -1,0 +1,830 @@
+[
+    {
+      "author": "Chinua Achebe",
+      "country": "Nigeria",    
+      "language": "English",
+      "pages": 209,
+      "title": "Things Fall Apart",
+      "year": 1958,
+      "genres": ["Fiction", "Classic", "Cultural"]
+    },
+    {
+      "author": "Hans Christian Andersen",
+      "country": "Denmark",
+      "language": "Danish",
+      "pages": 784,
+      "title": "Fairy tales",
+      "year": 1836,
+      "genres": ["Fiction", "Children's Literature", "Fantasy"]
+    },
+    {
+      "author": "Dante Alighieri",
+      "country": "Italy",
+      "language": "Italian",
+      "pages": 928,
+      "title": "The Divine Comedy",
+      "year": 1315,
+      "genres": ["Fiction", "Epic", "Poetry"]
+    },
+    {
+      "author": "Unknown",
+      "country": "Sumer and Akkadian Empire",
+      "language": "Akkadian",
+      "pages": 160,
+      "title": "The Epic Of Gilgamesh",
+      "year": -1700,
+      "genres": ["Fiction", "Epic", "Mythology"]
+    },
+    {
+      "author": "Unknown",
+      "country": "Achaemenid Empire",
+      "language": "Hebrew",
+      "pages": 176,
+      "title": "The Book Of Job",
+      "year": -600,
+      "genres": ["Fiction", "Religious", "Philosophy"]
+    },
+    {
+      "author": "Unknown",
+      "country": "India/Iran/Iraq/Egypt/Tajikistan",
+      "language": "Arabic",
+      "pages": 288,
+      "title": "One Thousand and One Nights",
+      "year": 1200,
+      "genres": ["Fiction", "Folk Tales", "Adventure"]
+    },
+    {
+      "author": "Unknown",
+      "country": "Iceland",
+      "language": "Old Norse",
+      "pages": 384,
+      "title": "Nj\u00e1l's Saga",
+      "year": 1350,
+      "genres": ["Fiction", "Saga", "Historical"]
+    },
+    {
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 226,
+      "title": "Pride and Prejudice",
+      "year": 1813,
+      "genres": ["Fiction", "Romance", "Classic"]
+    },
+    {
+      "author": "Honor\u00e9 de Balzac",
+      "country": "France",
+      "language": "French",
+      "pages": 443,
+      "title": "Le P\u00e8re Goriot",
+      "year": 1835,
+      "genres": ["Fiction", "Literary Realism", "Drama"]
+    },
+    {
+      "author": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "language": "French, English",
+      "pages": 256,
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "year": 1952,
+      "genres": ["Fiction", "Absurdist", "Existential"]
+    },
+    {
+      "author": "Giovanni Boccaccio",
+      "country": "Italy",
+      "language": "Italian",
+      "pages": 1024,
+      "title": "The Decameron",
+      "year": 1351,
+      "genres": ["Fiction", "Classic", "Short Stories"]
+    },
+    {
+      "author": "Jorge Luis Borges",
+      "country": "Argentina",
+      "language": "Spanish",
+      "pages": 224,
+      "title": "Ficciones",
+      "year": 1965,
+      "genres": ["Fiction", "Magical Realism", "Short Stories"]
+    },
+    {
+      "author": "Emily Bront\u00eb",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 342,
+      "title": "Wuthering Heights",
+      "year": 1847,
+      "genres": ["Fiction", "Gothic", "Romance"]
+    },
+    {
+      "author": "Albert Camus",
+      "country": "Algeria, French Empire",
+      "language": "French",
+      "pages": 185,
+      "title": "The Stranger",
+      "year": 1942,
+      "genres": ["Fiction", "Philosophical", "Existential"]
+    },
+    {
+      "author": "Paul Celan",
+      "country": "Romania, France",
+      "language": "German",
+      "pages": 320,
+      "title": "Poems",
+      "year": 1952,
+      "genres": ["Poetry", "Existential", "Modernist"]
+    },
+    {
+      "author": "Louis-Ferdinand C\u00e9line",
+      "country": "France",
+      "language": "French",
+      "pages": 505,
+      "title": "Journey to the End of the Night",
+      "year": 1932,
+      "genres": ["Fiction", "Autobiographical", "Modernist"]
+    },
+    {
+      "author": "Miguel de Cervantes",
+      "country": "Spain",
+      "language": "Spanish",
+      "pages": 1056,
+      "title": "Don Quijote De La Mancha",
+      "year": 1610,
+      "genres": ["Fiction", "Satire", "Adventure"]
+    },
+    {
+      "author": "Geoffrey Chaucer",
+      "country": "England",
+      "language": "English",
+      "pages": 544,
+      "title": "The Canterbury Tales",
+      "year": 1450,
+      "genres": ["Fiction", "Poetry", "Classic"]
+    },
+    {
+      "author": "Anton Chekhov",
+      "country": "Russia",
+      "language": "Russian",
+      "pages": 194,
+      "title": "Stories",
+      "year": 1886,
+      "genres": ["Fiction", "Short Stories", "Drama"]
+    },
+    {
+      "author": "Joseph Conrad",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 320,
+      "title": "Nostromo",
+      "year": 1904,
+      "genres": ["Fiction", "Adventure", "Historical"]
+    },
+    {
+      "author": "Charles Dickens",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 194,
+      "title": "Great Expectations",
+      "year": 1861,
+      "genres": ["Fiction", "Classic", "Coming-of-age"]
+    },
+    {
+      "author": "Denis Diderot",
+      "country": "France",
+      "language": "French",
+      "pages": 596,
+      "title": "Jacques the Fatalist",
+      "year": 1796,
+      "genres": ["Fiction", "Philosophy", "Satire"]
+    },
+    {
+      "author": "Alfred D\u00f6blin",
+      "country": "Germany",
+      "language": "German",
+      "pages": 600,
+      "title": "Berlin Alexanderplatz",
+      "year": 1929,
+      "genres": ["Fiction", "Modernist", "Urban"]
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "language": "Russian",
+      "pages": 551,
+      "title": "Crime and Punishment",
+      "year": 1866,
+      "genres": ["Fiction", "Psychological Thriller", "Philosophical"]
+    },
+    {
+      "author": "George Eliot",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 663,
+      "title": "Middlemarch",
+      "year": 1871,
+      "genres": ["Fiction", "Realist", "Historical"]
+    },
+    {
+      "author": "Ralph Ellison",
+      "country": "United States",
+      "language": "English",
+      "pages": 581,
+      "title": "Invisible Man",
+      "year": 1952,
+      "genres": ["Fiction", "African American", "Existential"]
+    },
+    {
+      "author": "Euripides",
+      "country": "Greece",
+      "language": "Greek",
+      "pages": 104,
+      "title": "Medea",
+      "year": -431,
+      "genres": ["Drama", "Tragedy", "Classic"]
+    },
+    {
+      "author": "William Faulkner",
+      "country": "United States",
+      "language": "English",
+      "pages": 313,
+      "title": "Absalom, Absalom!",
+      "year": 1936,
+      "genres": ["Fiction", "Southern Gothic", "Modernist"]
+    },
+    {
+      "author": "Gustave Flaubert",
+      "country": "France",
+      "language": "French",
+      "pages": 528,
+      "title": "Madame Bovary",
+      "year": 1857,
+      "genres": ["Fiction", "Realist", "Romance"]
+    },
+    {
+      "author": "Federico Garc\u00eda Lorca",
+      "country": "Spain",
+      "language": "Spanish",
+      "pages": 484,
+      "title": "Gypsy Ballads",
+      "year": 1928,
+      "genres": ["Poetry", "Romanticism", "Spanish Literature"]
+    },
+    {
+      "author": "Gabriel Garc\u00eda M\u00e1rquez",
+      "country": "Colombia",
+      "language": "Spanish",
+      "pages": 417,
+      "title": "One Hundred Years of Solitude",
+      "year": 1967,
+      "genres": ["Fiction", "Magical Realism", "Family Saga"]
+    },
+    {
+      "author": "Johann Wolfgang von Goethe",
+      "country": "Saxe-Weimar",
+      "language": "German",
+      "pages": 158,
+      "title": "Faust",
+      "year": 1832,
+      "genres": ["Drama", "Tragedy", "Classic"]
+    },
+    {
+      "author": "Nikolai Gogol",
+      "country": "Russia",
+      "language": "Russian",
+      "pages": 196,
+      "title": "Dead Souls",
+      "year": 1842,
+      "genres": ["Fiction", "Satire", "Classic"]
+    },
+    {
+      "author": "G\u00fcnter Grass",
+      "country": "Germany",
+      "language": "German",
+      "pages": 600,
+      "title": "The Tin Drum",
+      "year": 1959,
+      "genres": ["Fiction", "Magical Realism", "Historical"]
+    },
+    {
+      "author": "Jo\u00e3o Guimar\u00e3es Rosa",
+      "country": "Brazil",
+      "language": "Portuguese",
+      "pages": 494,
+      "title": "The Devil to Pay in the Backlands",
+      "year": 1956,
+      "genres": ["Fiction", "Adventure", "Brazilian Literature"]
+    },
+    {
+      "author": "Knut Hamsun",
+      "country": "Norway",
+      "language": "Norwegian",
+      "pages": 176,
+      "title": "Hunger",
+      "year": 1890,
+      "genres": ["Fiction", "Psychological", "Modernist"]
+    },
+    {
+      "author": "Ernest Hemingway",
+      "country": "United States",
+      "language": "English",
+      "pages": 255,
+      "title": "The Old Man and the Sea",
+      "year": 1952,
+      "genres": ["Fiction", "Adventure", "Literary"]
+    },
+    {
+      "author": "Homer",
+      "country": "Greece",
+      "language": "Greek",
+      "pages": 608,
+      "title": "Iliad",
+      "year": -735,
+      "genres": ["Epic", "Poetry", "Classic"]
+    },
+    {
+      "author": "Homer",
+      "country": "Greece",
+      "language": "Greek",
+      "pages": 374,
+      "title": "Odyssey",
+      "year": -800,
+      "genres": ["Epic", "Poetry", "Classic"]
+    },
+    {
+      "author": "Henrik Ibsen",
+      "country": "Norway",
+      "language": "Norwegian",
+      "pages": 68,
+      "title": "A Doll's House",
+      "year": 1879,
+      "genres": ["Drama", "Realist", "Feminist"]
+    },
+    {
+      "author": "James Joyce",
+      "country": "Ireland",
+      "language": "English",
+      "pages": 228,
+      "title": "Ulysses",
+      "year": 1922,
+      "genres": ["Fiction", "Modernist", "Stream of consciousness"]
+    },
+    {
+      "author": "Franz Kafka",
+      "country": "Czech Republic",
+      "language": "German",
+      "pages": 488,
+      "title": "The Metamorphosis",
+      "year": 1915,
+      "genres": ["Fiction", "Absurdist", "Existential"]
+    },
+    {
+      "author": "Franz Kafka",
+      "country": "Czech Republic",
+      "language": "German",
+      "pages": 272,
+      "title": "The Trial",
+      "year": 1925,
+      "genres": ["Fiction", "Philosophical", "Absurdist"]
+    },
+    {
+      "author": "Kalidasa",
+      "country": "India",
+      "language": "Sanskrit",
+      "pages": 147,
+      "title": "The Recognition of Shakuntala",
+      "year": 150,
+      "genres": ["Drama", "Romance", "Classic"]
+    },
+    {
+      "author": "Yasunari Kawabata",
+      "country": "Japan",
+      "language": "Japanese",
+      "pages": 175,
+      "title": "The Sound of the Mountain",
+      "year": 1954,
+      "genres": ["Fiction", "Modernist", "Japanese Literature"]
+    },
+    {
+      "author": "Nikos Kazantzakis",
+      "country": "Greece",
+      "language": "Greek",
+      "pages": 368,
+      "title": "Zorba the Greek",
+      "year": 1946,
+      "genres": ["Fiction", "Philosophical"]
+    },
+    {
+      "author": "D. H. Lawrence",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 432,
+      "title": "Sons and Lovers",
+      "year": 1913,
+      "genres": ["Fiction", "Psychological", "Realist"]
+    },
+    {
+      "author": "Halld\u00f3r Laxness",
+      "country": "Iceland",
+      "language": "Icelandic",
+      "pages": 384,
+      "title": "Independent People",
+      "year": 1934,
+      "genres": ["Fiction", "Social Commentary"]
+    },
+    {
+      "author": "Giacomo Leopardi",
+      "country": "Italy",
+      "language": "Italian",
+      "pages": 184,
+      "title": "Poems",
+      "year": 1818,
+      "genres": ["Poetry", "Romanticism"]
+    },
+    {
+      "author": "Doris Lessing",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 304,
+      "title": "The Golden Notebook",
+      "year": 1962,
+      "genres": ["Fiction", "Feminist", "Experimental"]
+    },
+    {
+      "author": "Astrid Lindgren",
+      "country": "Sweden",
+      "language": "Swedish",
+      "pages": 160,
+      "title": "Pippi Longstocking",
+      "year": 1945,
+      "genres": ["Fiction", "Children's"]
+    },
+    {
+      "author": "Lu Xun",
+      "country": "China",
+      "language": "Chinese",
+      "pages": 389,
+      "title": "Diary of a Madman",
+      "year": 1918,
+      "genres": ["Fiction", "Satire", "Political"]
+    },
+    {
+      "author": "Naguib Mahfouz",
+      "country": "Egypt",
+      "language": "Arabic",
+      "pages": 355,
+      "title": "Palace Walk",
+      "year": 1956,
+      "genres": ["Fiction", "Historical", "Egyptian Literature"]
+    },
+    {
+      "author": "Thomas Mann",
+      "country": "Germany",
+      "language": "German",
+      "pages": 720,
+      "title": "Buddenbrooks",
+      "year": 1901,
+      "genres": ["Fiction", "Realist", "Family Saga"]
+    },
+    {
+      "author": "Thomas Mann",
+      "country": "Germany",
+      "language": "German",
+      "pages": 384,
+      "title": "The Magic Mountain",
+      "year": 1924,
+      "genres": ["Fiction", "Philosophical", "Modernist"]
+    },
+    {
+      "author": "Herman Melville",
+      "country": "United States",
+      "language": "English",
+      "pages": 378,
+      "title": "Moby Dick",
+      "year": 1851,
+      "genres": ["Fiction", "Adventure", "Epic"]
+    },
+    {
+      "author": "Michel de Montaigne",
+      "country": "France",
+      "language": "French",
+      "pages": 404,
+      "title": "Essays",
+      "year": 1595,
+      "genres": ["Philosophy", "Autobiography"]
+    },
+    {
+      "author": "Elsa Morante",
+      "country": "Italy",
+      "language": "Italian",
+      "pages": 600,
+      "title": "History",
+      "year": 1974,
+      "genres": ["Fiction", "Historical", "Epic"]
+    },
+    {
+      "author": "Toni Morrison",
+      "country": "United States",
+      "language": "English",
+      "pages": 321,
+      "title": "Beloved",
+      "year": 1987,
+      "genres": ["Fiction", "Historical", "Horror"]
+    },
+    {
+      "author": "Murasaki Shikibu",
+      "country": "Japan",
+      "language": "Japanese",
+      "pages": 1360,
+      "title": "The Tale of Genji",
+      "year": 1006,
+      "genres": ["Fiction", "Romance", "Classic"]
+    },
+    {
+      "author": "Robert Musil",
+      "country": "Austria",
+      "language": "German",
+      "pages": 365,
+      "title": "The Man Without Qualities",
+      "year": 1931,
+      "genres": ["Fiction", "Philosophical"]
+    },
+    {
+      "author": "Vladimir Nabokov",
+      "country": "Russia/United States",
+      "language": "English",
+      "pages": 315,
+      "title": "Lolita",
+      "year": 1955,
+      "genres": ["Fiction", "Psychological"]
+    },
+    {
+      "author": "George Orwell",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 272,
+      "title": "Animal Farm",
+      "year": 1945,
+      "genres": ["Fiction", "Political Satire", "Dystopian"]
+    },
+    {
+      "author": "Ovid",
+      "country": "Roman Empire",
+      "language": "Classical Latin",
+      "pages": 442,
+      "title": "Metamorphoses",
+      "year": 100,
+      "genres": ["Mythology", "Poetry", "Classic"]
+    },
+    {
+      "author": "Fernando Pessoa",
+      "country": "Portugal",
+      "language": "Portuguese",
+      "pages": 272,
+      "title": "The Book of Disquiet",
+      "year": 1928,
+      "genres": ["Fiction", "Philosophical", "Modernist"]
+    },
+    {
+      "author": "Edgar Allan Poe",
+      "country": "United States",
+      "language": "English",
+      "pages": 842,
+      "title": "The Complete Works",
+      "year": 1809,
+      "genres": ["Fiction", "Gothic", "Horror"]
+    },
+    {
+      "author": "Marcel Proust",
+      "country": "France",
+      "language": "French",
+      "pages": 2408,
+      "title": "In Search of Lost Time",
+      "year": 1913,
+      "genres": ["Fiction", "Modernist", "Philosophical"]
+    },
+    {
+      "author": "Fran\u00e7ois Rabelais",
+      "country": "France",
+      "language": "French",
+      "pages": 623,
+      "title": "Gargantua and Pantagruel",
+      "year": 1533,
+      "genres": ["Fiction", "Satire", "Classic"]
+    },
+    {
+      "author": "Juan Rulfo",
+      "country": "Mexico",
+      "language": "Spanish",
+      "pages": 238,
+      "title": "Pedro P\u00e1ramo",
+      "year": 1955,
+      "genres": ["Fiction", "Magical Realism", "Classic"]
+    },
+    {
+      "author": "Rumi",
+      "country": "Greater Persia",
+      "language": "Persian",
+      "pages": 305,
+      "title": "The Masnavi",
+      "year": 1236,
+      "genres": ["Poetry", "Sufism", "Classic"]
+    },
+    {
+      "author": "Salman Rushdie",
+      "country": "United Kingdom, India",
+      "language": "English",
+      "pages": 533,
+      "title": "Midnight's Children",
+      "year": 1981,
+      "genres": ["Fiction", "Magic Realism", "Postcolonial"]
+    },
+    {
+      "author": "Saadi",
+      "country": "Persia, Persian Empire",
+      "language": "Persian",
+      "pages": 298,
+      "title": "Gulistan",
+      "year": 1258,
+      "genres": ["Poetry", "Philosophical", "Classic"]
+    },
+    {
+      "author": "Tayeb Salih",
+      "country": "Sudan",
+      "language": "Arabic",
+      "pages": 139,
+      "title": "Season of Migration to the North",
+      "year": 1966,
+      "genres": ["Fiction", "Postcolonial", "Psychological"]
+    },
+    {
+      "author": "Jos\u00e9 Saramago",
+      "country": "Portugal",
+      "language": "Portuguese",
+      "pages": 352,
+      "title": "Blindness",
+      "year": 1995,
+      "genres": ["Fiction", "Dystopian", "Philosophical"]
+    },
+    {
+      "author": "William Shakespeare",
+      "country": "England",
+      "language": "English",
+      "pages": 432,
+      "title": "Hamlet",
+      "year": 1603,
+      "genres": ["Drama", "Tragedy", "Classic"]
+    },
+    {
+      "author": "William Shakespeare",
+      "country": "England",
+      "language": "English",
+      "pages": 180,
+      "title": "Othello",
+      "year": 1609,
+      "genres": ["Drama", "Tragedy", "Classic"]
+    },
+    {
+      "author": "Sophocles",
+      "country": "Greece",
+      "language": "Greek",
+      "pages": 144,
+      "title": "Oedipus the King",
+      "year": -430,
+      "genres": ["Drama", "Tragedy", "Classic"]
+    },
+    {
+      "author": "Stendhal",
+      "country": "France",
+      "language": "French",
+      "pages": 576,
+      "title": "The Red and the Black",
+      "year": 1830,
+      "genres": ["Fiction", "Romantic", "Realist"]
+    },
+    {
+      "author": "Laurence Sterne",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 656,
+      "title": "The Life and Opinions of Tristram Shandy, Gentleman",
+      "year": 1760,
+      "genres": ["Fiction", "Satire"]
+    },
+    {
+      "author": "Italo Svevo",
+      "country": "Italy",
+      "language": "Italian",
+      "pages": 412,
+      "title": "Confessions of Zeno",
+      "year": 1923,
+      "genres": ["Fiction", "Psychological", "Modernist"]
+    },
+    {
+      "author": "Jonathan Swift",
+      "country": "Ireland",
+      "language": "English",
+      "pages": 178,
+      "title": "Gulliver's Travels",
+      "year": 1726,
+      "genres": ["Fiction", "Satire", "Adventure"]
+    },
+    {
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "language": "Russian",
+      "pages": 864,
+      "title": "War and Peace",
+      "year": 1867,
+      "genres": ["Fiction", "Historical", "Epic"]
+    },
+    {
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "language": "Russian",
+      "pages": 600,
+      "title": "Anna Karenina",
+      "year": 1877,
+      "genres": ["Fiction", "Realist", "Romance"]
+    },
+    {
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "language": "Russian",
+      "pages": 1072,
+      "title": "The Death of Ivan Ilyich",
+      "year": 1886,
+      "genres": ["Fiction", "Philosophical"]
+    },
+    {
+      "author": "Mark Twain",
+      "country": "United States",
+      "language": "English",
+      "pages": 224,
+      "title": "The Adventures of Huckleberry Finn",
+      "year": 1884,
+      "genres": ["Fiction", "Adventure", "Coming-of-age"]
+    },
+    {
+      "author": "Valmiki",
+      "country": "India",
+      "language": "Sanskrit",
+      "pages": 500,
+      "title": "Ramayana",
+      "year": -450,
+      "genres": ["Epic", "Poetry", "Classic"]
+    },
+    {
+      "author": "Virgil",
+      "country": "Roman Empire",
+      "language": "Classical Latin",
+      "pages": 442,
+      "title": "The Aeneid",
+      "year": -23,
+      "genres": ["Epic", "Poetry", "Classic"]
+    },
+    {
+      "author": "Vyasa",
+      "country": "India",
+      "language": "Sanskrit",
+      "pages": 276,
+      "title": "Mahabharata",
+      "year": -700,
+      "genres": ["Epic", "Poetry", "Classic"]
+    },
+    {
+      "author": "Walt Whitman",
+      "country": "United States",
+      "language": "English",
+      "pages": 512,
+      "title": "Leaves of Grass",
+      "year": 1855,
+      "genres": ["Poetry", "Classic"]
+    },
+    {
+      "author": "Virginia Woolf",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 216,
+      "title": "Mrs. Dalloway",
+      "year": 1925,
+      "genres": ["Fiction", "Modernist"]
+    },
+    {
+      "author": "Virginia Woolf",
+      "country": "United Kingdom",
+      "language": "English",
+      "pages": 209,
+      "title": "To the Lighthouse",
+      "year": 1927,
+      "genres": ["Fiction", "Modernist"]
+    },
+    {
+      "author": "Marguerite Yourcenar",
+      "country": "France/Belgium",
+      "language": "French",
+      "pages": 352,
+      "title": "Memoirs of Hadrian",
+      "year": 1951,
+      "genres": ["Historical", "Fiction"]
+    }
+  ]
